@@ -13,4 +13,4 @@ Implementing the Logic of Minesweeper using Recursion
 ![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Minesweeper/blob/main/Screenshoots/3.png?raw=true)
 ![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Minesweeper/blob/main/Screenshoots/4.png?raw=true)
 
-To play the game compile the Driver.java file
+- To play the game compile the Driver.java file
