@@ -1,4 +1,4 @@
-# Bomb-Sweeper
-Implementing the Logic of Bomb Sweeper using Recursion
+# Minesweeper
+Implementing the Logic of Minesweeper using Recursion
 
 ## Screenshoots
